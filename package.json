@@ -1,0 +1,29 @@
+{
+  "name": "module8",
+  "version": "1.0.0",
+  "description": "Module 8",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PashaF232/module8.git"
+  },
+  "keywords": [
+    "module8"
+  ],
+  "author": "Pasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PashaF232/module8/issues"
+  },
+  "homepage": "https://github.com/PashaF232/module8#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "pg": "^8.13.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
